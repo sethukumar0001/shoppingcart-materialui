@@ -63,7 +63,7 @@ const StyledHeader = styled.header`
 `;
 
 const MenuIconButton = styled.div`
-  margin-right:1260px;
+  margin-right:1100px;
   margin-top:13px;
   color:white;
   cursor:pointer;
